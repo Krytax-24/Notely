@@ -1,0 +1,16 @@
+.s_banner {
+    background: url(../image/banner-bg.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.s_center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s_content {
+    color: var(--black);
+    font-size: 7.5rem;
+}
