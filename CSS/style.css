@@ -587,12 +587,3 @@ section {
         font-size: 50%;
     }
 }
-
-
-/* Extra Button */
-
-.center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
